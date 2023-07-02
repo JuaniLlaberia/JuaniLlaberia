@@ -2,7 +2,7 @@
 
 I am Juan Ignacio Llaberia, currently studying computer science in Buenos Aires, Argentina. I am a Front-End JavaScript developer and love writing code and come up with new projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-juan-ignacio-llaberia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ignacio-llaberia/)](https://www.linkedin.com/in/juan-ignacio-llaberia-241b351b3/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan-I-Llaberia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/juan-ignacio-llaberia-241b351b3/))]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/juan-ignacio-llaberia-241b351b3/))
 [![Gmail Badge](https://img.shields.io/badge/-juanillaberia2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanillaberia2002@gmail.com)](mailto:juanillaberia2002@gmail.com)
 
 ## ⚡ Technologies
