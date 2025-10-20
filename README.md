@@ -1,9 +1,8 @@
-### Hi there 👋! I am Juan 👨🏻‍💻
+### Hi there! I'm Juan Ignacio Llaberia 👨🏻‍💻
 
-Currently studying computer science in Buenos Aires, Argentina. I am a Full-Stack developer. I love writing code and comming up with new problems to solve.
+A **Computer Engineering student** and a **Full-Stack Developer** passionate about building modern, functional products. My primary focus is at the intersection of **Generative AI, Machine Learning, and scalable Full-Stack architecture.**
+
+Currently based in Buenos Aires, Argentina. I love solving complex problems, building systems that scale, and continuously learning new technologies.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-llaberia-241b351b3/)
-
-### My technologies⚡
-
-I primarily work with JavaScript and TypeScript, both on the front-end and back-end. I use frameworks like React and Next.js for the front-end and Express.js for the back-end. I'm comfortable working with both SQL and NoSQL databases, adapting to the needs of each project. Learning new technologies excites me and keeps me motivated every day to keep pushing forward.
